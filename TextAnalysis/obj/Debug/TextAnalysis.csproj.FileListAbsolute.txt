@@ -1,0 +1,6 @@
+C:\Users\beta\Desktop\TextAnalysis\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.dll
+C:\Users\beta\Desktop\TextAnalysis\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+C:\Users\beta\Desktop\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\beta\Desktop\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\beta\Desktop\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.dll
+C:\Users\beta\Desktop\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
